@@ -23,5 +23,6 @@ public class NomeEIdade {
         }
         System.out.println(alunos);
         teclado.close();
+
     }
 }
